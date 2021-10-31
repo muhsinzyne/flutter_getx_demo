@@ -7,7 +7,15 @@ environment:
 
 dependencies: 
   cupertino_icons: ^1.0.2
+
+  # statemanagement
   get: 4.3.8
+
+  #dependancy injection
+  get_it: ^7.2.0
+  injectable: ^1.5.0
+
+
   flutter: 
     sdk: flutter
 
